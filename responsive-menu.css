@@ -1,1 +1,18 @@
-@media (max-width: 780px){.desktop-nav.is-open{display:flex;position:absolute;top:66px;right:0;left:0;z-index:5;flex-direction:column;gap:0;padding:10px 25px 19px;background:#fff5f4;border-top:1px solid #e1b8c0}.desktop-nav.is-open a{padding:12px 0}}
+@media (max-width: 780px){
+  .desktop-nav.is-open{
+    display:flex;
+    position:absolute;
+    top:66px;
+    right:0;
+    left:0;
+    z-index:5;
+    flex-direction:column;
+    gap:0;
+    padding:10px 25px 19px;
+    background:#fff5f4;
+    border-top:1px solid #e1b8c0
+  }
+  .desktop-nav.is-open a{
+    padding:12px 0
+  }
+}
